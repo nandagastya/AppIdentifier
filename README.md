@@ -37,10 +37,10 @@ open AppIdentifier.xcodeproj
 ## 🔍 How It Works (No Voodoo)
 Under the hood, the app loops through a list of popular URL schemes (like instagram://, spotify://, etc.) and asks:
 
-“Yo, iOS — can I open this?”
+“Yo, iOS can I open this?”
 
-If the answer’s yes — boom, that app is on your phone.
-If no — we skip it.
+If the answer’s yes, boom, that app is on your phone.
+If no, we skip it.
 
 Simple. Slick. Safe. ✅
 
@@ -55,7 +55,7 @@ Simple. Slick. Safe. ✅
 <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/cf04cdd2-e1c5-4424-904b-865c2aba3420" />
 
 
-🧑‍💻 Author
+## 🧑‍💻 Author
 Agastya Nand
 🎓 B.Tech, Mathematics and Computing
 📍 Delhi Technological University
