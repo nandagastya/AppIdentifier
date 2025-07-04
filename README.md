@@ -29,7 +29,7 @@ git clone https://github.com/nandagastya/AppIdentifier.git
 cd AppIdentifier
 open AppIdentifier.xcodeproj
 
-1. Plug in your iPhone (yep, real device needed)
+1. Plug in your iPhone or run it on a simulator(Macbook)
 2. Hit ▶️ in Xcode
 3. Watch the app work its magic 🧙‍♂️
 
