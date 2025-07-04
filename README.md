@@ -51,7 +51,7 @@ Simple. Slick. Safe. ✅
 <img width="390" alt="Image" src="https://github.com/user-attachments/assets/3ba7a3c7-4a2b-46a4-a51b-664d789c06b2" />
 <img width="390" alt="Image" src="https://github.com/user-attachments/assets/d69a5123-761f-4a40-a5b0-49ae71c2dbd7" />
 
-### ✉️ Push Notification
+### ✉️ Local Notification
 <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/cf04cdd2-e1c5-4424-904b-865c2aba3420" />
 
 
