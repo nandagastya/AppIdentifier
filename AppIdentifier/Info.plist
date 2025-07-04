@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>LSApplicationQueriesSchemes</key>
+    <array>
+        <string>whatsapp</string>
+        <string>instagram</string>
+        <string>fb</string>
+        <string>snapchat</string>
+        <string>twitter</string>
+        <string>tg</string>
+        <string>zoomus</string>
+        <string>youtube</string>
+        <string>spotify</string>
+        <string>comgooglemaps</string>
+        <string>googlegmail</string>
+        <string>linkedin</string>
+        <string>pinterest</string>
+        <string>reddit</string>
+    </array>
+ 
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict/>
+	</array>
+</dict>
+</plist>
